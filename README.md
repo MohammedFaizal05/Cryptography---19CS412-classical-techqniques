@@ -1,12 +1,14 @@
 # Cryptography---19CS412-classical-techqniques
 
 
-# Caeser Cipher
+## Caeser Cipher
+
 Caeser Cipher using with different key values
 
 # AIM:
 
 To develop a simple C program to implement Caeser Cipher.
+
 
 ## DESIGN STEPS:
 
